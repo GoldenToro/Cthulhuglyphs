@@ -1,0 +1,719 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.inkscape.org/namespaces/inkscape" xmlns:ns2="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" height="297mm" id="svg5" version="1.1" viewBox="0 0 210 297" width="210mm" ns2:docname="prototype.svg" ns1:version="1.2.1 (9c6d41e410, 2022-07-14)">
+    <ns2:namedview bordercolor="#000000" borderopacity="0.25" id="namedview7" pagecolor="#ffffff" showgrid="false" ns1:current-layer="layer1" ns1:cx="559.32146" ns1:cy="304.76302" ns1:deskcolor="#d1d1d1" ns1:document-units="mm" ns1:pagecheckerboard="0" ns1:pageopacity="0.0" ns1:showpageshadow="2" ns1:window-height="1368" ns1:window-maximized="0" ns1:window-width="1718" ns1:window-x="0" ns1:window-y="1134" ns1:zoom="0.70710679" />
+    <ns0:defs id="defs2">
+        <ns1:path-effect effect="spiro" id="path-effect13543" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13539" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13535" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13531" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13527" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13523" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13519" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13515" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13511" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13507" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13503" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13499" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13495" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13491" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13487" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13483" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13479" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13475" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13471" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13467" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13463" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13459" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13455" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13451" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13447" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13443" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13439" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13435" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13431" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13427" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13423" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13419" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13415" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13411" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13407" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect13403" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12853" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12849" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12845" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12841" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12837" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12833" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12829" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12825" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12821" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12817" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12813" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12809" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12805" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12801" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12797" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12793" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12789" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12785" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12781" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12777" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12773" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12769" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12765" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12761" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12757" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12753" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12749" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12745" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12741" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12737" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12733" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12729" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12725" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12721" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12717" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12713" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12165" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12161" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12157" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12153" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12149" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12145" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12141" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12137" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12133" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12129" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12125" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12121" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12117" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12113" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12109" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12105" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12101" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12097" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12093" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12089" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12085" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12081" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12077" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12073" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12069" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12065" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12061" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12057" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12053" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12049" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12045" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12041" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12037" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12033" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12029" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12025" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11477" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11473" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11469" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11465" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11461" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11457" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11363" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11359" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11355" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11351" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11347" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11343" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11249" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11245" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11241" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11237" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11233" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11229" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11135" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11131" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11127" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11123" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11119" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11115" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11021" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11017" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11013" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11009" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11005" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect11001" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8845" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8841" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8837" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8833" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8829" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8825" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8821" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8817" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8813" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8809" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8805" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8801" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8797" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8793" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8789" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8785" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8781" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8777" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8773" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8769" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8765" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8761" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8757" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8753" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8749" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8745" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8741" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8737" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8733" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8729" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8725" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8721" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8717" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8713" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8709" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8705" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7750" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7746" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7742" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7738" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7734" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7730" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7726" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7722" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7718" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7714" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7710" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7706" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7702" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7698" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7694" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7690" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7686" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7682" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7678" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7674" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7670" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7666" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7662" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7658" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7654" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7650" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7646" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7642" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7638" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7634" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7630" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7626" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7622" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7618" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7614" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7610" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4742" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4738" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4734" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4730" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4726" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4722" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect12306" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect10550" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8113" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect8056" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7336" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7332" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7057" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7053" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7049" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7045" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7011" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7007" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7003" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect5130" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect5126" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect5122" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect5118" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4709" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4705" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4701" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4697" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4693" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4689" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3377" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3373" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3369" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3365" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3361" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3357" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3194" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3188" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3182" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3176" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3170" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3036" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3032" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect3028" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect2891" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect2885" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect2881" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect2875" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect2849" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect2254" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect2254-6" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4697-3" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4693-7" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7336-5" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-2" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-2" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-3" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-8" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-0" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-22" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-7" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-81" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-7-3" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-81-4" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-7-7" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-81-3" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-5" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-7" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-0-6" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-22-8" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-7-1" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-81-6" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-5-3" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-7-6" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4722-5" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4726-0" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4730-6" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4734-1" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4738-6" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4742-8" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4722-5-6" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4726-0-8" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4730-6-3" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4734-1-8" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4738-6-7" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4742-8-8" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4722-5-3" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4726-0-2" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4730-6-1" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4734-1-5" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4738-6-73" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect4742-8-3" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-0-9" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-22-4" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-7-2" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-81-9" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-5-8" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-7-8" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-0-9-4" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-22-4-6" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-7-2-9" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-81-9-5" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7061-5-8-2" is_visible="true" lpeversion="1" />
+        <ns1:path-effect effect="spiro" id="path-effect7015-7-8-8" is_visible="true" lpeversion="1" />
+    </ns0:defs>
+    <ns0:g id="layer1" style="display:inline" ns1:groupmode="layer" ns1:label="sentense">
+        <ns0:g id="g12709" transform="matrix(1.4059733,-0.81173904,0.81173904,1.4059733,-87.98946,15.856344)" ns1:label="textBottom">
+            <ns0:path d="m 124.19006,144.28792 -105.098076,0 52.549038,-91.017599 z" id="path12167" style="display:inline;fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none" transform="translate(-12.059247,-18.899774)" ns2:arg1="0.52359878" ns2:arg2="1.5707963" ns2:cx="71.641022" ns2:cy="113.94872" ns2:r1="60.678402" ns2:r2="30.339201" ns2:sides="3" ns2:type="star" ns1:flatsided="true" ns1:label="punctuation" ns1:randomized="0" ns1:rounded="0" ns1:transform-center-x="-1.8520849" ns1:transform-center-y="-0.088350155" />
+            <ns0:g id="g12257" style="display:inline" transform="matrix(0.83715292,1.0874093e-8,-1.0874093e-8,0.83715292,-25.069572,-35.510584)" ns1:label="sentence6">
+                <ns0:g id="g12247" ns1:label="content">
+                    <ns0:g id="g12193" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g10524" style="stroke-width:1.00113;stroke-dasharray:none" transform="rotate(-15,116.2518,40.409947)" ns1:label="bottom">
+          <ns0:path d="m 108.35826,49.253254 -0.83756,0.837564" id="path10520" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00113;stroke-dasharray:none" />
+          <ns0:path d="m 107.68357,49.901623 -4.37084,4.370841" id="path15917" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns1:original-d="m 107.68357,49.901623 c -1.4525,1.453947 -2.91336,2.914814 -4.37084,4.370841" ns1:path-effect="#path-effect15919" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g12219" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g13368" style="stroke-width:1.00129;stroke-dasharray:none" transform="matrix(1.0001203,0,0,0.98824077,-0.03920087,-11.769557)" ns1:label="top">
+          <ns0:path d="m 99.545349,51.76861 c 0.672271,-0.976412 1.557991,-1.80504 2.576971,-2.410864 1.29614,-0.770608 2.81464,-1.17642 4.32082,-1.103933 1.50617,0.07249 2.99289,0.630867 4.1423,1.606913 1.16188,0.986636 1.95384,2.371109 2.34269,3.844953 0.38884,1.473843 0.38872,3.033753 0.13047,4.535993 -0.33181,1.930165 -1.08885,3.786063 -2.20174,5.397616" id="path13366" style="fill:none;stroke:#000000;stroke-width:1.00129;stroke-dasharray:none" ns2:nodetypes="csssc" ns1:original-d="m 99.545349,51.76861 c -0.31242,-1.416241 2.720951,-1.062153 2.576971,-2.410864 -0.1782,-1.669336 7.22265,2.001735 8.46312,0.50298 1.10673,-1.337173 8.6953,8.474082 2.47316,8.380946 -2.3482,-0.03515 -2.05736,3.780677 -2.20174,5.397616" ns1:path-effect="#path-effect13390" />
+        </ns0:g>
+      </ns0:g>
+                    <ns0:g id="g12245" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g5556" style="stroke-width:1.00113;stroke-dasharray:none" transform="rotate(-15,116.2518,40.409947)" ns1:label="bottom">
+          <ns0:path d="m 108.35826,49.253254 -0.83756,0.837564" id="path5550" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00113;stroke-dasharray:none" />
+          <ns0:path d="m 107.65371,49.963504 -7.27696,7.46511" id="path5552" style="display:inline;fill:none;stroke:#000000;stroke-width:0.995441;stroke-dasharray:none" />
+          <ns0:path d="m 100.82537,61.471699 c 0.31694,-0.609744 0.42807,-1.324199 0.31133,-2.001404 -0.11674,-0.677205 -0.46069,-1.313209 -0.96349,-1.781638 -0.516823,-0.48149 -1.198549,-0.782605 -1.902541,-0.840343 -0.703992,-0.05774 -1.42567,0.128278 -2.014037,0.519126" id="path5554" style="display:inline;fill:none;stroke:#000000;stroke-width:0.995445;stroke-dasharray:none" ns2:nodetypes="csc" ns1:original-d="m 100.82537,61.471699 c 0.51443,-1.948133 0.96171,-2.256641 -0.65216,-3.783042 -1.447985,-1.369505 -1.902663,-0.769867 -3.916578,-0.321217" ns1:path-effect="#path-effect5572" />
+        </ns0:g>
+        </ns0:g>
+                </ns0:g>
+                <ns0:g id="g12255" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path12249" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path12251" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path12253" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+            <ns0:g id="g12347" style="display:inline" transform="matrix(0.41857645,0.7249957,-0.7249957,0.41857645,130.48066,-43.563972)" ns1:label="sentence5">
+                <ns0:g id="g12337" ns1:label="content">
+                    <ns0:g id="g12283" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g10524" style="stroke-width:1.00113;stroke-dasharray:none" transform="rotate(-15,116.2518,40.409947)" ns1:label="bottom">
+          <ns0:path d="m 108.35826,49.253254 -0.83756,0.837564" id="path10520" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00113;stroke-dasharray:none" />
+          <ns0:path d="m 107.68357,49.901623 -4.37084,4.370841" id="path15917" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns1:original-d="m 107.68357,49.901623 c -1.4525,1.453947 -2.91336,2.914814 -4.37084,4.370841" ns1:path-effect="#path-effect15919" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g12309" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g2636-9-4" ns1:label="bottom">
+          <ns0:path d="M 105,51.542929 V 62.429898" id="path2632-7-2" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 110.07368,52.486719 H 99.926321" id="path2644-1-1-2" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="M 110.07368,54.272656 H 99.926321" id="path2644-9-6-2" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="M 110.07368,62.829543 H 99.926319" id="path4208-2" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g12335" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g3010-4" ns1:label="bottom">
+          <ns0:path d="m 105,51.542929 v 6.289834" id="path3006-2" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:circle cx="105" cy="62.342449" id="path3196-1" r="4.2333331" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+        </ns0:g>
+        </ns0:g>
+                </ns0:g>
+                <ns0:g id="g12345" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path12339" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path12341" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path12343" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+            <ns0:g id="g12437" style="display:inline" transform="matrix(0.41857645,0.7249957,-0.7249957,0.41857645,148.18387,-74.226839)" ns1:label="sentence4">
+                <ns0:g id="g12427" ns1:label="content">
+                    <ns0:g id="g12373" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g4667-4" ns1:label="bottom">
+          <ns0:path d="M 105,51.542929 V 63.719742" id="path4663-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 98.556869,63.412659 c 0.727744,-0.992284 1.940391,-1.610435 3.170921,-1.616385 1.23053,-0.0059 2.4491,0.600445 3.18641,1.585645 0.0152,0.02035 0.0303,0.04085 0.0451,0.06149" id="path4673-4-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 98.556869,63.412659 c 2.089431,2.47e-4 4.238591,-0.02023 6.357331,-0.03074 2.11876,-0.0105 0.0304,0.04123 0.0451,0.06149" ns1:path-effect="#path-effect4693-7-6" />
+          <ns0:path d="m 111.48923,63.377255 c -0.72774,-0.992284 -1.94039,-1.610435 -3.17092,-1.616385 -1.23053,-0.0059 -2.4491,0.600445 -3.18641,1.585645 -0.0152,0.02035 -0.0303,0.04085 -0.0451,0.06149" id="path4675-3-5" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 111.48923,63.377255 c -2.08943,2.46e-4 -4.23859,-0.02023 -6.35733,-0.03074 -2.11876,-0.0105 -0.0304,0.04123 -0.0451,0.06149" ns1:path-effect="#path-effect4697-3-6" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g12399" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g7314-4" ns1:label="bottom">
+          <ns0:path d="M 105,51.542929 V 62.835438" id="path7304-4" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 105.0202,62.699988 c 0.10968,-1.235748 0.68277,-2.424889 1.58104,-3.280592 0.89826,-0.855702 2.1138,-1.370441 3.35341,-1.420056 1.23962,-0.04962 2.49241,0.366328 3.45619,1.147502 0.96378,0.781173 1.63007,1.920708 1.83817,3.143737 0.046,0.270053 0.0704,0.543768 0.0729,0.81769" id="path7320-6-3" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 105.0202,62.699988 c 3.36184,0.0034 6.8198,-0.269643 10.22881,-0.409409 3.40906,-0.139766 0.049,0.549254 0.0729,0.81769" ns1:path-effect="#path-effect7336-5-5" />
+          <ns0:path d="M 113.37538,55.146449 V 52.335992" id="path7324-7-0" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 113.12225,53.74122 H 96.877752" id="path7364-4-4" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 96.865508,55.146448 V 52.335991" id="path7783-3-3" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g12425" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g13364" style="stroke-width:1.00113;stroke-dasharray:none" transform="rotate(-15,116.2518,40.409947)" ns1:label="bottom">
+          <ns0:path d="m 108.35826,49.253254 -0.83756,0.837564" id="path13352" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00113;stroke-dasharray:none" />
+          <ns0:path d="m 107.70066,49.911235 c -0.38918,0.409868 -0.8787,0.723757 -1.41358,0.906397 -0.96418,0.32923 -2.01827,0.225533 -3.02452,0.06588 -1.00625,-0.159649 -2.02396,-0.372111 -3.03522,-0.248069 -1.040745,0.127659 -2.029779,0.620384 -2.773583,1.359439 -0.743805,0.739055 -1.240899,1.718037 -1.419724,2.751221 -0.188903,1.091411 -0.02442,2.237121 0.438673,3.243306 0.46309,1.006185 1.219794,1.871002 2.140211,2.487195 1.114336,0.746016 2.469463,1.126027 3.809223,1.068197 1.33975,-0.05783 2.65709,-0.553197 3.703,-1.392459" id="path13354" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="cssssc" ns1:original-d="m 107.70066,49.911235 c -0.92627,0.09286 -0.48798,0.816805 -1.41358,0.906397 -1.56522,0.151501 -4.49401,-0.333305 -6.05974,-0.182185 -2.49164,0.240486 -2.79501,2.741362 -4.193307,4.11066 -1.398303,1.369295 1.719786,3.821255 2.578884,5.730501 0.859091,1.909244 5.008673,-0.215254 7.512223,-0.324262" ns1:path-effect="#path-effect13374" />
+          <ns0:circle cx="119.74721" cy="28.401501" id="circle13356" r="2.9159615" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" transform="rotate(15)" />
+          <ns0:path d="M 95.972413,54.34007 91.747509,53.20801" id="path13358" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns1:original-d="m 95.972413,54.34007 c -1.392628,-0.372375 -2.81607,-0.753785 -4.224904,-1.13206" ns1:path-effect="#path-effect13378" />
+          <ns0:path d="m 89.453629,49.355043 -4.224904,-1.13206" id="path13360" style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns1:original-d="m 89.453629,49.355043 c -1.392628,-0.372375 -2.81607,-0.753785 -4.224904,-1.13206" ns1:path-effect="#path-effect13382" />
+          <ns0:path d="m 92.323228,53.003717 c 0.204029,-0.718392 0.40967,-1.436325 0.616921,-2.153794 0.126086,-0.436491 0.253192,-0.874785 0.313466,-1.325106 0.06028,-0.450321 0.05153,-0.916737 -0.09003,-1.348456 -0.17516,-0.534175 -0.549864,-0.992145 -1.012245,-1.311877 -0.814885,-0.563486 -1.913146,-0.691869 -2.836024,-0.331523 -0.922878,0.360346 -1.643568,1.198955 -1.861027,2.165529" id="path13362" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="csssc" ns1:original-d="m 92.323228,53.003717 c 0.175822,-0.513058 0.477735,-1.661611 0.616921,-2.153794 0.275994,-0.975956 -0.124502,-1.654992 0.223433,-2.673562 0.523402,-1.532247 -0.327093,-0.413379 -1.012245,-1.311877 -0.685151,-0.898499 -3.283796,1.044888 -4.697051,1.834006" ns1:path-effect="#path-effect13386" />
+        </ns0:g>
+        </ns0:g>
+                </ns0:g>
+                <ns0:g id="g12435" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path12429" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path12431" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path12433" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+            <ns0:g id="g12527" style="display:inline" transform="matrix(0.83715292,1.0874093e-8,-1.0874093e-8,0.83715292,-7.366359,-66.173449)" ns1:label="sentence3">
+                <ns0:g id="g12517" ns1:label="content">
+                    <ns0:g id="g12463" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g2509-3-3" style="stroke-width:1.00013;stroke-dasharray:none" transform="translate(-0.02656231,-12.321439)" ns1:label="top">
+          <ns0:path d="M 105.02656,53.957252 V 64.017398" id="path2242-5-8-3-6" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="m 108.34738,59.067977 h -6.64164" id="path2242-5-9-9-7-1" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="m 109.14113,57.315112 h -8.22914" id="path2559-8" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="M 110.10024,55.562248 H 99.95288" id="path2561-5" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:circle cx="105.02657" cy="50.289146" id="path2563-0" r="3.5057292" style="fill:none;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none" />
+        </ns0:g>
+      </ns0:g>
+                    <ns0:g id="g12489" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g5556" style="stroke-width:1.00113;stroke-dasharray:none" transform="rotate(-15,116.2518,40.409947)" ns1:label="bottom">
+          <ns0:path d="m 108.35826,49.253254 -0.83756,0.837564" id="path5550" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00113;stroke-dasharray:none" />
+          <ns0:path d="m 107.65371,49.963504 -7.27696,7.46511" id="path5552" style="display:inline;fill:none;stroke:#000000;stroke-width:0.995441;stroke-dasharray:none" />
+          <ns0:path d="m 100.82537,61.471699 c 0.31694,-0.609744 0.42807,-1.324199 0.31133,-2.001404 -0.11674,-0.677205 -0.46069,-1.313209 -0.96349,-1.781638 -0.516823,-0.48149 -1.198549,-0.782605 -1.902541,-0.840343 -0.703992,-0.05774 -1.42567,0.128278 -2.014037,0.519126" id="path5554" style="display:inline;fill:none;stroke:#000000;stroke-width:0.995445;stroke-dasharray:none" ns2:nodetypes="csc" ns1:original-d="m 100.82537,61.471699 c 0.51443,-1.948133 0.96171,-2.256641 -0.65216,-3.783042 -1.447985,-1.369505 -1.902663,-0.769867 -3.916578,-0.321217" ns1:path-effect="#path-effect5572" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g12515" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g4667-4" ns1:label="bottom">
+          <ns0:path d="M 105,51.542929 V 63.719742" id="path4663-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 98.556869,63.412659 c 0.727744,-0.992284 1.940391,-1.610435 3.170921,-1.616385 1.23053,-0.0059 2.4491,0.600445 3.18641,1.585645 0.0152,0.02035 0.0303,0.04085 0.0451,0.06149" id="path4673-4-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 98.556869,63.412659 c 2.089431,2.47e-4 4.238591,-0.02023 6.357331,-0.03074 2.11876,-0.0105 0.0304,0.04123 0.0451,0.06149" ns1:path-effect="#path-effect4693-7-6" />
+          <ns0:path d="m 111.48923,63.377255 c -0.72774,-0.992284 -1.94039,-1.610435 -3.17092,-1.616385 -1.23053,-0.0059 -2.4491,0.600445 -3.18641,1.585645 -0.0152,0.02035 -0.0303,0.04085 -0.0451,0.06149" id="path4675-3-5" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 111.48923,63.377255 c -2.08943,2.46e-4 -4.23859,-0.02023 -6.35733,-0.03074 -2.11876,-0.0105 -0.0304,0.04123 -0.0451,0.06149" ns1:path-effect="#path-effect4697-3-6" />
+        </ns0:g>
+        </ns0:g>
+                </ns0:g>
+                <ns0:g id="g12525" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path12519" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path12521" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path12523" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+            <ns0:g id="g12617" style="display:inline" transform="matrix(0.41857645,0.7249957,-0.7249957,0.41857645,165.86162,-43.563974)" ns1:label="sentence2">
+                <ns0:g id="g12607" ns1:label="content">
+                    <ns0:g id="g12553" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g6997-3" style="stroke-width:1.00013;stroke-dasharray:none" transform="translate(-0.02656231,-12.321439)" ns1:label="top">
+          <ns0:path d="M 105.02656,53.957252 V 64.017398" id="path6989-6" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:circle cx="105.02657" cy="51.750378" id="path7017-9-5" r="2.6871746" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 91.796998,52.029156 c 1.386746,2.205424 3.336836,4.053407 5.613582,5.319655 2.276746,1.266248 4.87539,1.948114 7.48053,1.962838 2.60513,0.01472 5.21132,-0.637723 7.50223,-1.878154 2.29092,-1.240431 4.26177,-3.066252 5.67336,-5.255859 0.0633,-0.09814 0.12543,-0.196983 0.18647,-0.296517" id="path6993-0" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 91.796998,52.029156 c 8.633882,-0.0012 17.514632,0.09778 26.269702,0.14848 8.75513,0.0507 0.12563,-0.199174 0.18647,-0.296517" ns1:path-effect="#path-effect7015-9" />
+          <ns0:path d="M 95.323401,51.784411 H 89.005028" id="path7085-5" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 121.19192,51.784411 h -6.31837" id="path7085-2-6" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+        </ns0:g>
+      </ns0:g>
+                    <ns0:g id="g12579" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g2648-5-7" style="stroke-width:1.00013;stroke-dasharray:none" transform="translate(-0.02656231,-12.321439)" ns1:label="top">
+          <ns0:path d="M 105.02656,53.957252 V 64.017398" id="path2638-8-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="M 116.05337,61.879174 H 93.999757" id="path2644-4-8" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:circle cx="105.02657" cy="50.289146" id="circle2646-0-8" r="3.5057292" style="fill:none;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none" />
+          <ns0:path d="m 93.43451,63.695174 v -3.632" id="path3456-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1.22806;stroke-dasharray:none" />
+          <ns0:path d="m 116.58555,63.695174 v -3.632" id="path4206-7" style="display:inline;fill:none;stroke:#000000;stroke-width:1.22806;stroke-dasharray:none" />
+        </ns0:g>
+      </ns0:g>
+                    <ns0:g id="g12605" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g5566" style="stroke-width:1.00129;stroke-dasharray:none" transform="matrix(1.0001203,0,0,0.98824077,-0.03920087,-11.769557)" ns1:label="top">
+          <ns0:path d="m 97.336088,56.831969 -4.978995,0.0301" id="path5558" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00129;stroke-dasharray:none" />
+          <ns0:ellipse cx="86.697464" cy="82.302353" id="ellipse5560" rx="2.6018074" ry="2.7358592" style="display:inline;fill:none;stroke:#000000;stroke-width:1.0013;stroke-dasharray:none" transform="matrix(0.96504636,-0.26207923,0.25559363,0.96678431,0,0)" />
+          <ns0:path d="m 104.78332,53.784672 c -0.0251,-0.978508 0.21246,-1.962541 0.68132,-2.821772 0.46886,-0.859231 1.16782,-1.591511 2.00429,-2.099856 0.83648,-0.508345 1.80839,-0.791482 2.78701,-0.811914 0.97862,-0.02043 1.96149,0.221894 2.81846,0.694883 1.45,0.800305 2.51362,2.291082 2.7373,3.932105 0.17548,1.287445 -0.14833,2.601428 -0.68164,3.786283 -0.53332,1.184855 -1.27026,2.264258 -1.97244,3.357531 -0.82341,1.282018 -1.60378,2.591679 -2.33936,3.926035" id="path5562" style="fill:none;stroke:#000000;stroke-width:1.00128;stroke-dasharray:none" ns2:nodetypes="csssc" ns1:original-d="m 104.78332,53.784672 c -0.43333,-1.964339 8.49078,-3.167979 8.29108,-5.038659 -0.24716,-2.315386 0.85375,2.003478 2.7373,3.932105 1.88354,1.928627 -1.43408,5.024487 -2.65408,7.143814 -1.22001,2.119319 -2.1391,1.683324 -2.33936,3.926035" ns1:path-effect="#path-effect5576" />
+          <ns0:path d="m 104.64583,53.975562 c 0.14215,-0.820228 0.0694,-1.676741 -0.20907,-2.461238 -0.27848,-0.784496 -0.76203,-1.495192 -1.38951,-2.042222 -0.62749,-0.547029 -1.39749,-0.929149 -2.21263,-1.098041 -0.81514,-0.168892 -1.673574,-0.124172 -2.466755,0.128505 -0.710577,0.226362 -1.371366,0.621565 -1.881037,1.165986 -0.869663,0.928959 -1.245289,2.21577 -1.434292,3.474164 -0.174847,1.16414 -0.214386,2.348546 -0.117569,3.521756" id="path5564" style="fill:none;stroke:#000000;stroke-width:1.00128;stroke-dasharray:none" ns2:nodetypes="csscc" ns1:original-d="m 104.64583,53.975562 c -1.17972,-1.522196 -8.493716,-2.05255 -6.277965,-5.472996 1.046511,-1.615494 -0.867312,-0.762344 -1.881037,1.165986 -1.882505,3.580944 -0.602747,1.182612 -1.434292,3.474164 -0.831545,2.291552 -0.101139,2.999013 -0.117569,3.521756" ns1:path-effect="#path-effect5580" />
+        </ns0:g>
+      </ns0:g>
+                </ns0:g>
+                <ns0:g id="g12615" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path12609" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path12611" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path12613" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+            <ns0:g id="g12707" style="display:inline" transform="matrix(0.83715292,1.0874093e-8,-1.0874093e-8,0.83715292,-42.846381,-66.282426)" ns1:label="sentence1">
+                <ns0:g id="g12697" ns1:label="content">
+                    <ns0:g id="g12643" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g4683-4" style="stroke-width:1.00013;stroke-dasharray:none" transform="translate(-0.02656231,-12.321439)" ns1:label="top">
+          <ns0:path d="M 105.02656,53.957252 V 64.017398" id="path4669-1" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="m 95.290352,51.478211 c 0.428934,0.214603 0.796776,0.549703 1.050323,0.956831 0.253546,0.407128 0.392035,0.885062 0.395436,1.364674 0.0034,0.479611 -0.128295,0.959461 -0.376042,1.370144 -0.247747,0.410683 -0.6108,0.750966 -1.036647,0.971631 -0.02189,0.01134 -0.04395,0.02238 -0.06615,0.0331" id="path4673-2" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 95.290352,51.478211 c -2.65e-4,1.53265 0.02177,3.10912 0.03307,4.66328 0.0113,1.55417 -0.04436,0.0223 -0.06615,0.0331" ns1:path-effect="#path-effect4693-79" />
+          <ns0:path d="m 115.04358,51.478181 c -0.42883,0.214699 -0.79655,0.54983 -1.05001,0.956946 -0.25346,0.407117 -0.3919,0.884996 -0.39531,1.364553 -0.003,0.479557 0.12824,0.959353 0.3759,1.370026 0.24766,0.410673 0.61059,0.750991 1.03632,0.971755 0.0219,0.01134 0.0439,0.02238 0.0661,0.0331" id="path4675-4" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 115.04358,51.478181 c 2.6e-4,1.53265 -0.0218,3.10912 -0.0331,4.66328 -0.0113,1.55417 0.0444,0.0223 0.0661,0.0331" ns1:path-effect="#path-effect4697-38" />
+          <ns0:path d="M 113.23164,53.82795 H 96.821487" id="path4756-8" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+        </ns0:g>
+      </ns0:g>
+                    <ns0:g id="g12669" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g7314-4" ns1:label="bottom">
+          <ns0:path d="M 105,51.542929 V 62.835438" id="path7304-4" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 105.0202,62.699988 c 0.10968,-1.235748 0.68277,-2.424889 1.58104,-3.280592 0.89826,-0.855702 2.1138,-1.370441 3.35341,-1.420056 1.23962,-0.04962 2.49241,0.366328 3.45619,1.147502 0.96378,0.781173 1.63007,1.920708 1.83817,3.143737 0.046,0.270053 0.0704,0.543768 0.0729,0.81769" id="path7320-6-3" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 105.0202,62.699988 c 3.36184,0.0034 6.8198,-0.269643 10.22881,-0.409409 3.40906,-0.139766 0.049,0.549254 0.0729,0.81769" ns1:path-effect="#path-effect7336-5-5" />
+          <ns0:path d="M 113.37538,55.146449 V 52.335992" id="path7324-7-0" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 113.12225,53.74122 H 96.877752" id="path7364-4-4" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 96.865508,55.146448 V 52.335991" id="path7783-3-3" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g12695" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g2835-1" ns1:label="bottom">
+          <ns0:path d="M 105,51.542929 V 62.429898" id="path2827-7" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 105.01297,62.327033 c 0.009,0.811668 0.43377,1.607834 1.10302,2.067169 0.66925,0.459336 1.56492,0.569485 2.32552,0.28599 0.49357,-0.183966 0.92696,-0.5257 1.22097,-0.962751 0.29401,-0.437051 0.4472,-0.96728 0.43158,-1.493789 -0.0156,-0.526509 -0.19999,-1.04672 -0.5194,-1.465567 -0.31941,-0.418846 -0.77231,-0.734278 -1.27592,-0.88865" id="path2847-5" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 105.01297,62.327033 c 1.13563,0.798205 2.28602,1.568953 3.42854,2.353159 1.14251,0.784207 -0.0948,-3.20699 -0.14277,-4.810757" ns1:path-effect="#path-effect2849-7" />
+        </ns0:g>
+        </ns0:g>
+                </ns0:g>
+                <ns0:g id="g12705" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path12699" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path12701" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path12703" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+        </ns0:g>
+        <ns0:g id="g13399" transform="matrix(1.4059733,-0.81173904,0.81173904,1.4059733,-34.870687,109.72973)" ns1:label="textTop">
+            <ns0:path d="m 124.19006,144.28792 -105.098076,0 52.549038,-91.017599 z" id="path12857" style="display:inline;fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none" transform="rotate(60,81.868717,94.242387)" ns2:arg1="0.52359878" ns2:arg2="1.5707963" ns2:cx="71.641022" ns2:cy="113.94872" ns2:r1="60.678402" ns2:r2="30.339201" ns2:sides="3" ns2:type="star" ns1:flatsided="true" ns1:label="punctuation" ns1:randomized="0" ns1:rounded="0" ns1:transform-center-x="21.751847" ns1:transform-center-y="-11.577481" />
+            <ns0:g id="g12947" style="display:inline" transform="matrix(0.83715292,1.0874093e-8,-1.0874093e-8,0.83715292,-25.069572,-35.510584)" ns1:label="sentence6">
+                <ns0:g id="g12937" ns1:label="content">
+                    <ns0:g id="g12883" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g15463" ns1:label="top">
+          <ns0:path d="m 110.80388,51.165751 c 0.22323,-0.393711 0.47494,-0.771272 0.75251,-1.128759 1.35197,-1.741242 3.26028,-2.945248 4.9342,-4.379734 0.83696,-0.717243 1.62565,-1.503854 2.23643,-2.421398 0.61078,-0.917543 1.03899,-1.975366 1.10694,-3.075512 0.0961,-1.555391 -0.58003,-3.15089 -1.79802,-4.122981 -0.609,-0.486045 -1.34195,-0.816915 -2.11051,-0.945058 -0.76857,-0.128143 -1.5711,-0.05249 -2.29965,0.223781 -0.55618,0.210905 -1.07369,0.542213 -1.45585,0.998032 -0.38216,0.455819 -0.62175,1.040973 -0.61354,1.63574 0.006,0.441793 0.14931,0.880736 0.40493,1.241121 0.25561,0.360386 0.62254,0.640651 1.03747,0.792458 0.41494,0.151806 0.8761,0.174496 1.30393,0.06415 0.42784,-0.11034 0.8205,-0.353233 1.11026,-0.686785" id="path16821" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="cssssc" ns1:original-d="m 110.80388,51.165751 c 0.22023,-0.359826 0.50242,-0.78311 0.75251,-1.128759 0.25008,-0.345648 5.51913,-6.583676 8.27757,-9.876644 2.75843,-3.292967 -4.13803,-3.228755 -6.20818,-4.844258 -2.07014,-1.615503 -1.01827,1.678217 -2.06939,2.633772 -1.05113,0.955555 2.58749,0.5181 3.85659,1.410949" ns1:path-effect="#path-effect16823" />
+          <ns0:path d="m 110.89173,41.540699 c 2.12708,0.844063 4.02344,2.261581 5.43512,4.062708 0.28196,0.359748 0.54481,0.734197 0.82837,1.092687 1.15346,1.458252 2.65136,2.642214 4.33659,3.427691" id="path16825" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="cssc" ns1:original-d="m 110.89173,41.540699 c 1.97453,1.12719 3.43621,2.959838 5.43512,4.062708 1.99891,1.102874 0.55316,0.728996 0.82837,1.092687 0.27521,0.363697 1.53382,2.744248 4.33659,3.427691" ns1:path-effect="#path-effect16827" />
+          <ns0:path d="m 110.0922,44.832914 c 1.48106,0.523726 2.80996,1.470257 3.78901,2.698791 0.28488,0.357472 0.54043,0.737678 0.82837,1.092687 0.88346,1.08923 2.07301,1.927459 3.39596,2.392995" id="path16829" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="cssc" ns1:original-d="m 110.0922,44.832914 c 1.97453,1.12719 1.7901,1.595921 3.78901,2.698791 1.99891,1.102874 0.55316,0.728996 0.82837,1.092687 0.27521,0.363697 0.59319,1.709552 3.39596,2.392995" ns1:path-effect="#path-effect16833" />
+          <ns0:path d="m 109.19859,48.219191 c 0.51917,-0.07105 1.05626,-0.0068 1.54403,0.184671 0.48778,0.191482 0.92513,0.509782 1.25732,0.915044 0.30423,0.371157 0.52276,0.814206 0.8754,1.139719 0.36824,0.339913 0.87272,0.527855 1.3736,0.51173" id="path16835" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="cssc" ns1:original-d="m 109.19859,48.219191 c 1.97453,1.12719 -17.77584,24.935263 2.80135,1.099715 1.49186,-1.728096 0.60019,0.776028 0.8754,1.139719 0.27521,0.363697 -1.42917,-0.171713 1.3736,0.51173" ns1:path-effect="#path-effect16839" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g12909" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g13364" style="stroke-width:1.00113;stroke-dasharray:none" transform="rotate(-15,116.2518,40.409947)" ns1:label="bottom">
+          <ns0:path d="m 108.35826,49.253254 -0.83756,0.837564" id="path13352" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00113;stroke-dasharray:none" />
+          <ns0:path d="m 107.70066,49.911235 c -0.38918,0.409868 -0.8787,0.723757 -1.41358,0.906397 -0.96418,0.32923 -2.01827,0.225533 -3.02452,0.06588 -1.00625,-0.159649 -2.02396,-0.372111 -3.03522,-0.248069 -1.040745,0.127659 -2.029779,0.620384 -2.773583,1.359439 -0.743805,0.739055 -1.240899,1.718037 -1.419724,2.751221 -0.188903,1.091411 -0.02442,2.237121 0.438673,3.243306 0.46309,1.006185 1.219794,1.871002 2.140211,2.487195 1.114336,0.746016 2.469463,1.126027 3.809223,1.068197 1.33975,-0.05783 2.65709,-0.553197 3.703,-1.392459" id="path13354" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="cssssc" ns1:original-d="m 107.70066,49.911235 c -0.92627,0.09286 -0.48798,0.816805 -1.41358,0.906397 -1.56522,0.151501 -4.49401,-0.333305 -6.05974,-0.182185 -2.49164,0.240486 -2.79501,2.741362 -4.193307,4.11066 -1.398303,1.369295 1.719786,3.821255 2.578884,5.730501 0.859091,1.909244 5.008673,-0.215254 7.512223,-0.324262" ns1:path-effect="#path-effect13374" />
+          <ns0:circle cx="119.74721" cy="28.401501" id="circle13356" r="2.9159615" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" transform="rotate(15)" />
+          <ns0:path d="M 95.972413,54.34007 91.747509,53.20801" id="path13358" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns1:original-d="m 95.972413,54.34007 c -1.392628,-0.372375 -2.81607,-0.753785 -4.224904,-1.13206" ns1:path-effect="#path-effect13378" />
+          <ns0:path d="m 89.453629,49.355043 -4.224904,-1.13206" id="path13360" style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns1:original-d="m 89.453629,49.355043 c -1.392628,-0.372375 -2.81607,-0.753785 -4.224904,-1.13206" ns1:path-effect="#path-effect13382" />
+          <ns0:path d="m 92.323228,53.003717 c 0.204029,-0.718392 0.40967,-1.436325 0.616921,-2.153794 0.126086,-0.436491 0.253192,-0.874785 0.313466,-1.325106 0.06028,-0.450321 0.05153,-0.916737 -0.09003,-1.348456 -0.17516,-0.534175 -0.549864,-0.992145 -1.012245,-1.311877 -0.814885,-0.563486 -1.913146,-0.691869 -2.836024,-0.331523 -0.922878,0.360346 -1.643568,1.198955 -1.861027,2.165529" id="path13362" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="csssc" ns1:original-d="m 92.323228,53.003717 c 0.175822,-0.513058 0.477735,-1.661611 0.616921,-2.153794 0.275994,-0.975956 -0.124502,-1.654992 0.223433,-2.673562 0.523402,-1.532247 -0.327093,-0.413379 -1.012245,-1.311877 -0.685151,-0.898499 -3.283796,1.044888 -4.697051,1.834006" ns1:path-effect="#path-effect13386" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g12935" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g5566" style="stroke-width:1.00129;stroke-dasharray:none" transform="matrix(1.0001203,0,0,0.98824077,-0.03920087,-11.769557)" ns1:label="top">
+          <ns0:path d="m 97.336088,56.831969 -4.978995,0.0301" id="path5558" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00129;stroke-dasharray:none" />
+          <ns0:ellipse cx="86.697464" cy="82.302353" id="ellipse5560" rx="2.6018074" ry="2.7358592" style="display:inline;fill:none;stroke:#000000;stroke-width:1.0013;stroke-dasharray:none" transform="matrix(0.96504636,-0.26207923,0.25559363,0.96678431,0,0)" />
+          <ns0:path d="m 104.78332,53.784672 c -0.0251,-0.978508 0.21246,-1.962541 0.68132,-2.821772 0.46886,-0.859231 1.16782,-1.591511 2.00429,-2.099856 0.83648,-0.508345 1.80839,-0.791482 2.78701,-0.811914 0.97862,-0.02043 1.96149,0.221894 2.81846,0.694883 1.45,0.800305 2.51362,2.291082 2.7373,3.932105 0.17548,1.287445 -0.14833,2.601428 -0.68164,3.786283 -0.53332,1.184855 -1.27026,2.264258 -1.97244,3.357531 -0.82341,1.282018 -1.60378,2.591679 -2.33936,3.926035" id="path5562" style="fill:none;stroke:#000000;stroke-width:1.00128;stroke-dasharray:none" ns2:nodetypes="csssc" ns1:original-d="m 104.78332,53.784672 c -0.43333,-1.964339 8.49078,-3.167979 8.29108,-5.038659 -0.24716,-2.315386 0.85375,2.003478 2.7373,3.932105 1.88354,1.928627 -1.43408,5.024487 -2.65408,7.143814 -1.22001,2.119319 -2.1391,1.683324 -2.33936,3.926035" ns1:path-effect="#path-effect5576" />
+          <ns0:path d="m 104.64583,53.975562 c 0.14215,-0.820228 0.0694,-1.676741 -0.20907,-2.461238 -0.27848,-0.784496 -0.76203,-1.495192 -1.38951,-2.042222 -0.62749,-0.547029 -1.39749,-0.929149 -2.21263,-1.098041 -0.81514,-0.168892 -1.673574,-0.124172 -2.466755,0.128505 -0.710577,0.226362 -1.371366,0.621565 -1.881037,1.165986 -0.869663,0.928959 -1.245289,2.21577 -1.434292,3.474164 -0.174847,1.16414 -0.214386,2.348546 -0.117569,3.521756" id="path5564" style="fill:none;stroke:#000000;stroke-width:1.00128;stroke-dasharray:none" ns2:nodetypes="csscc" ns1:original-d="m 104.64583,53.975562 c -1.17972,-1.522196 -8.493716,-2.05255 -6.277965,-5.472996 1.046511,-1.615494 -0.867312,-0.762344 -1.881037,1.165986 -1.882505,3.580944 -0.602747,1.182612 -1.434292,3.474164 -0.831545,2.291552 -0.101139,2.999013 -0.117569,3.521756" ns1:path-effect="#path-effect5580" />
+        </ns0:g>
+      </ns0:g>
+                </ns0:g>
+                <ns0:g id="g12945" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path12939" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path12941" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path12943" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+            <ns0:g id="g13037" style="display:inline" transform="matrix(0.41857645,0.7249957,-0.7249957,0.41857645,130.48066,-43.563972)" ns1:label="sentence5">
+                <ns0:g id="g13027" ns1:label="content">
+                    <ns0:g id="g12973" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g15463" ns1:label="top">
+          <ns0:path d="m 110.80388,51.165751 c 0.22323,-0.393711 0.47494,-0.771272 0.75251,-1.128759 1.35197,-1.741242 3.26028,-2.945248 4.9342,-4.379734 0.83696,-0.717243 1.62565,-1.503854 2.23643,-2.421398 0.61078,-0.917543 1.03899,-1.975366 1.10694,-3.075512 0.0961,-1.555391 -0.58003,-3.15089 -1.79802,-4.122981 -0.609,-0.486045 -1.34195,-0.816915 -2.11051,-0.945058 -0.76857,-0.128143 -1.5711,-0.05249 -2.29965,0.223781 -0.55618,0.210905 -1.07369,0.542213 -1.45585,0.998032 -0.38216,0.455819 -0.62175,1.040973 -0.61354,1.63574 0.006,0.441793 0.14931,0.880736 0.40493,1.241121 0.25561,0.360386 0.62254,0.640651 1.03747,0.792458 0.41494,0.151806 0.8761,0.174496 1.30393,0.06415 0.42784,-0.11034 0.8205,-0.353233 1.11026,-0.686785" id="path16821" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="cssssc" ns1:original-d="m 110.80388,51.165751 c 0.22023,-0.359826 0.50242,-0.78311 0.75251,-1.128759 0.25008,-0.345648 5.51913,-6.583676 8.27757,-9.876644 2.75843,-3.292967 -4.13803,-3.228755 -6.20818,-4.844258 -2.07014,-1.615503 -1.01827,1.678217 -2.06939,2.633772 -1.05113,0.955555 2.58749,0.5181 3.85659,1.410949" ns1:path-effect="#path-effect16823" />
+          <ns0:path d="m 110.89173,41.540699 c 2.12708,0.844063 4.02344,2.261581 5.43512,4.062708 0.28196,0.359748 0.54481,0.734197 0.82837,1.092687 1.15346,1.458252 2.65136,2.642214 4.33659,3.427691" id="path16825" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="cssc" ns1:original-d="m 110.89173,41.540699 c 1.97453,1.12719 3.43621,2.959838 5.43512,4.062708 1.99891,1.102874 0.55316,0.728996 0.82837,1.092687 0.27521,0.363697 1.53382,2.744248 4.33659,3.427691" ns1:path-effect="#path-effect16827" />
+          <ns0:path d="m 110.0922,44.832914 c 1.48106,0.523726 2.80996,1.470257 3.78901,2.698791 0.28488,0.357472 0.54043,0.737678 0.82837,1.092687 0.88346,1.08923 2.07301,1.927459 3.39596,2.392995" id="path16829" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="cssc" ns1:original-d="m 110.0922,44.832914 c 1.97453,1.12719 1.7901,1.595921 3.78901,2.698791 1.99891,1.102874 0.55316,0.728996 0.82837,1.092687 0.27521,0.363697 0.59319,1.709552 3.39596,2.392995" ns1:path-effect="#path-effect16833" />
+          <ns0:path d="m 109.19859,48.219191 c 0.51917,-0.07105 1.05626,-0.0068 1.54403,0.184671 0.48778,0.191482 0.92513,0.509782 1.25732,0.915044 0.30423,0.371157 0.52276,0.814206 0.8754,1.139719 0.36824,0.339913 0.87272,0.527855 1.3736,0.51173" id="path16835" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.995438;stroke-dasharray:none" ns2:nodetypes="cssc" ns1:original-d="m 109.19859,48.219191 c 1.97453,1.12719 -17.77584,24.935263 2.80135,1.099715 1.49186,-1.728096 0.60019,0.776028 0.8754,1.139719 0.27521,0.363697 -1.42917,-0.171713 1.3736,0.51173" ns1:path-effect="#path-effect16839" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g12999" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g2648-5-7" style="stroke-width:1.00013;stroke-dasharray:none" transform="translate(-0.02656231,-12.321439)" ns1:label="top">
+          <ns0:path d="M 105.02656,53.957252 V 64.017398" id="path2638-8-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="M 116.05337,61.879174 H 93.999757" id="path2644-4-8" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:circle cx="105.02657" cy="50.289146" id="circle2646-0-8" r="3.5057292" style="fill:none;stroke:#000000;stroke-width:1.00012;stroke-dasharray:none" />
+          <ns0:path d="m 93.43451,63.695174 v -3.632" id="path3456-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1.22806;stroke-dasharray:none" />
+          <ns0:path d="m 116.58555,63.695174 v -3.632" id="path4206-7" style="display:inline;fill:none;stroke:#000000;stroke-width:1.22806;stroke-dasharray:none" />
+        </ns0:g>
+      </ns0:g>
+                    <ns0:g id="g13025" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g3022-0" style="stroke-width:1.00013;stroke-dasharray:none" transform="translate(-0.02656231,-12.321439)" ns1:label="top">
+          <ns0:path d="M 105.02656,53.957252 V 64.017398" id="path3012-1" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="m 97.773277,62.971385 c 2.257193,-0.925263 4.694223,-1.409441 7.133683,-1.417286 2.52132,-0.0081 5.04322,0.493039 7.36988,1.464529" id="path3018-8" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 97.773277,62.971385 c 2.378283,-0.47205 4.756163,-0.944478 7.133683,-1.417286 2.3775,-0.472806 4.91362,0.976731 7.36988,1.464529" ns1:path-effect="#path-effect3032-2" />
+          <ns0:path d="m 100.30364,53.927167 c 0.2146,-0.428934 0.5497,-0.796776 0.95683,-1.050323 0.40713,-0.253546 0.88506,-0.392035 1.36467,-0.395436 0.47962,-0.0034 0.95947,0.128295 1.37015,0.376042 0.41068,0.247747 0.75096,0.6108 0.97163,1.036647 0.0113,0.02189 0.0224,0.04395 0.0331,0.06615" id="path3168-5" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 100.30364,53.927167 c 1.53265,2.65e-4 3.10912,-0.02177 4.66328,-0.03307 1.55417,-0.0113 0.0223,0.04436 0.0331,0.06615" ns1:path-effect="#path-effect3170-5" />
+          <ns0:path d="m 109.76563,53.96024 c -0.2146,-0.428934 -0.5497,-0.796776 -0.95683,-1.050323 -0.40713,-0.253546 -0.88506,-0.392035 -1.36467,-0.395436 -0.47962,-0.0034 -0.95947,0.128295 -1.37015,0.376042 -0.41068,0.247747 -0.75096,0.6108 -0.97163,1.036647 -0.0113,0.02189 -0.0224,0.04395 -0.0331,0.06615" id="path3172-2" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 109.76563,53.96024 c -1.53265,2.65e-4 -3.10912,-0.02177 -4.66328,-0.03307 -1.55417,-0.0113 -0.0223,0.04436 -0.0331,0.06615" ns1:path-effect="#path-effect3176-3" />
+          <ns0:path d="m 97.773277,59.928677 c 2.257193,-0.925263 4.694223,-1.409441 7.133683,-1.417286 2.52132,-0.0081 5.04322,0.493039 7.36988,1.464529" id="path3178-0" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 97.773277,59.928677 c 2.378283,-0.47205 4.756163,-0.944478 7.133683,-1.417286 2.3775,-0.472806 4.91362,0.976731 7.36988,1.464529" ns1:path-effect="#path-effect3182-9" />
+          <ns0:path d="m 97.773276,66.146385 c 2.257194,-0.925263 4.694224,-1.409441 7.133684,-1.417286 2.52132,-0.0081 5.04322,0.493039 7.36988,1.464529" id="path3184-7" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 97.773276,66.146385 c 2.378284,-0.47205 4.756164,-0.944478 7.133684,-1.417286 2.3775,-0.472806 4.91362,0.976731 7.36988,1.464529" ns1:path-effect="#path-effect3188-8" />
+          <ns0:path d="m 97.773275,66.146385 c 2.257195,-0.925263 4.694225,-1.409441 7.133685,-1.417286 2.52132,-0.0081 5.04322,0.49304 7.36988,1.464529" id="path3190-9" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 97.773275,66.146385 c 2.378285,-0.47205 4.756165,-0.944478 7.133685,-1.417286 2.3775,-0.472806 4.91362,0.976731 7.36988,1.464529" ns1:path-effect="#path-effect3194-4" />
+        </ns0:g>
+      </ns0:g>
+                </ns0:g>
+                <ns0:g id="g13035" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path13029" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path13031" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path13033" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+            <ns0:g id="g13127" style="display:inline" transform="matrix(0.41857645,0.7249957,-0.7249957,0.41857645,148.18387,-74.226839)" ns1:label="sentence4">
+                <ns0:g id="g13117" ns1:label="content">
+                    <ns0:g id="g13063" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g4683-4" style="stroke-width:1.00013;stroke-dasharray:none" transform="translate(-0.02656231,-12.321439)" ns1:label="top">
+          <ns0:path d="M 105.02656,53.957252 V 64.017398" id="path4669-1" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="m 95.290352,51.478211 c 0.428934,0.214603 0.796776,0.549703 1.050323,0.956831 0.253546,0.407128 0.392035,0.885062 0.395436,1.364674 0.0034,0.479611 -0.128295,0.959461 -0.376042,1.370144 -0.247747,0.410683 -0.6108,0.750966 -1.036647,0.971631 -0.02189,0.01134 -0.04395,0.02238 -0.06615,0.0331" id="path4673-2" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 95.290352,51.478211 c -2.65e-4,1.53265 0.02177,3.10912 0.03307,4.66328 0.0113,1.55417 -0.04436,0.0223 -0.06615,0.0331" ns1:path-effect="#path-effect4693-79" />
+          <ns0:path d="m 115.04358,51.478181 c -0.42883,0.214699 -0.79655,0.54983 -1.05001,0.956946 -0.25346,0.407117 -0.3919,0.884996 -0.39531,1.364553 -0.003,0.479557 0.12824,0.959353 0.3759,1.370026 0.24766,0.410673 0.61059,0.750991 1.03632,0.971755 0.0219,0.01134 0.0439,0.02238 0.0661,0.0331" id="path4675-4" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 115.04358,51.478181 c 2.6e-4,1.53265 -0.0218,3.10912 -0.0331,4.66328 -0.0113,1.55417 0.0444,0.0223 0.0661,0.0331" ns1:path-effect="#path-effect4697-38" />
+          <ns0:path d="M 113.23164,53.82795 H 96.821487" id="path4756-8" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+        </ns0:g>
+      </ns0:g>
+                    <ns0:g id="g13089" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g7326-5" style="stroke-width:1.00013;stroke-dasharray:none" transform="translate(-0.02656231,-12.321439)" ns1:label="top">
+          <ns0:path d="M 105.02656,53.957252 V 64.017398" id="path7316-3" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:circle cx="105.02657" cy="51.750378" id="circle7318-8" r="2.6871746" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 115.13287,61.655402 V 57.815957" id="path7324-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 114.92094,59.735679 H 95.132188" id="path7364-5" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 95.020838,61.655401 V 57.815956" id="path7783-1" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+        </ns0:g>
+      </ns0:g>
+                    <ns0:g id="g13115" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g13368" style="stroke-width:1.00129;stroke-dasharray:none" transform="matrix(1.0001203,0,0,0.98824077,-0.03920087,-11.769557)" ns1:label="top">
+          <ns0:path d="m 99.545349,51.76861 c 0.672271,-0.976412 1.557991,-1.80504 2.576971,-2.410864 1.29614,-0.770608 2.81464,-1.17642 4.32082,-1.103933 1.50617,0.07249 2.99289,0.630867 4.1423,1.606913 1.16188,0.986636 1.95384,2.371109 2.34269,3.844953 0.38884,1.473843 0.38872,3.033753 0.13047,4.535993 -0.33181,1.930165 -1.08885,3.786063 -2.20174,5.397616" id="path13366" style="fill:none;stroke:#000000;stroke-width:1.00129;stroke-dasharray:none" ns2:nodetypes="csssc" ns1:original-d="m 99.545349,51.76861 c -0.31242,-1.416241 2.720951,-1.062153 2.576971,-2.410864 -0.1782,-1.669336 7.22265,2.001735 8.46312,0.50298 1.10673,-1.337173 8.6953,8.474082 2.47316,8.380946 -2.3482,-0.03515 -2.05736,3.780677 -2.20174,5.397616" ns1:path-effect="#path-effect13390" />
+        </ns0:g>
+      </ns0:g>
+                </ns0:g>
+                <ns0:g id="g13125" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path13119" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path13121" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path13123" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+            <ns0:g id="g13217" style="display:inline" transform="matrix(0.83715292,1.0874093e-8,-1.0874093e-8,0.83715292,-7.366359,-66.173449)" ns1:label="sentence3">
+                <ns0:g id="g13207" ns1:label="content">
+                    <ns0:g id="g13153" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g2509-0" ns1:label="bottom">
+          <ns0:path d="M 105,51.542929 V 63.984325" id="path2242-5-8-7" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 108.32082,63.466675 h -6.64164" id="path2242-5-9-9-4" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g13179" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g5566" style="stroke-width:1.00129;stroke-dasharray:none" transform="matrix(1.0001203,0,0,0.98824077,-0.03920087,-11.769557)" ns1:label="top">
+          <ns0:path d="m 97.336088,56.831969 -4.978995,0.0301" id="path5558" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00129;stroke-dasharray:none" />
+          <ns0:ellipse cx="86.697464" cy="82.302353" id="ellipse5560" rx="2.6018074" ry="2.7358592" style="display:inline;fill:none;stroke:#000000;stroke-width:1.0013;stroke-dasharray:none" transform="matrix(0.96504636,-0.26207923,0.25559363,0.96678431,0,0)" />
+          <ns0:path d="m 104.78332,53.784672 c -0.0251,-0.978508 0.21246,-1.962541 0.68132,-2.821772 0.46886,-0.859231 1.16782,-1.591511 2.00429,-2.099856 0.83648,-0.508345 1.80839,-0.791482 2.78701,-0.811914 0.97862,-0.02043 1.96149,0.221894 2.81846,0.694883 1.45,0.800305 2.51362,2.291082 2.7373,3.932105 0.17548,1.287445 -0.14833,2.601428 -0.68164,3.786283 -0.53332,1.184855 -1.27026,2.264258 -1.97244,3.357531 -0.82341,1.282018 -1.60378,2.591679 -2.33936,3.926035" id="path5562" style="fill:none;stroke:#000000;stroke-width:1.00128;stroke-dasharray:none" ns2:nodetypes="csssc" ns1:original-d="m 104.78332,53.784672 c -0.43333,-1.964339 8.49078,-3.167979 8.29108,-5.038659 -0.24716,-2.315386 0.85375,2.003478 2.7373,3.932105 1.88354,1.928627 -1.43408,5.024487 -2.65408,7.143814 -1.22001,2.119319 -2.1391,1.683324 -2.33936,3.926035" ns1:path-effect="#path-effect5576" />
+          <ns0:path d="m 104.64583,53.975562 c 0.14215,-0.820228 0.0694,-1.676741 -0.20907,-2.461238 -0.27848,-0.784496 -0.76203,-1.495192 -1.38951,-2.042222 -0.62749,-0.547029 -1.39749,-0.929149 -2.21263,-1.098041 -0.81514,-0.168892 -1.673574,-0.124172 -2.466755,0.128505 -0.710577,0.226362 -1.371366,0.621565 -1.881037,1.165986 -0.869663,0.928959 -1.245289,2.21577 -1.434292,3.474164 -0.174847,1.16414 -0.214386,2.348546 -0.117569,3.521756" id="path5564" style="fill:none;stroke:#000000;stroke-width:1.00128;stroke-dasharray:none" ns2:nodetypes="csscc" ns1:original-d="m 104.64583,53.975562 c -1.17972,-1.522196 -8.493716,-2.05255 -6.277965,-5.472996 1.046511,-1.615494 -0.867312,-0.762344 -1.881037,1.165986 -1.882505,3.580944 -0.602747,1.182612 -1.434292,3.474164 -0.831545,2.291552 -0.101139,2.999013 -0.117569,3.521756" ns1:path-effect="#path-effect5580" />
+        </ns0:g>
+      </ns0:g>
+                    <ns0:g id="g13205" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g4683-4" style="stroke-width:1.00013;stroke-dasharray:none" transform="translate(-0.02656231,-12.321439)" ns1:label="top">
+          <ns0:path d="M 105.02656,53.957252 V 64.017398" id="path4669-1" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="m 95.290352,51.478211 c 0.428934,0.214603 0.796776,0.549703 1.050323,0.956831 0.253546,0.407128 0.392035,0.885062 0.395436,1.364674 0.0034,0.479611 -0.128295,0.959461 -0.376042,1.370144 -0.247747,0.410683 -0.6108,0.750966 -1.036647,0.971631 -0.02189,0.01134 -0.04395,0.02238 -0.06615,0.0331" id="path4673-2" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 95.290352,51.478211 c -2.65e-4,1.53265 0.02177,3.10912 0.03307,4.66328 0.0113,1.55417 -0.04436,0.0223 -0.06615,0.0331" ns1:path-effect="#path-effect4693-79" />
+          <ns0:path d="m 115.04358,51.478181 c -0.42883,0.214699 -0.79655,0.54983 -1.05001,0.956946 -0.25346,0.407117 -0.3919,0.884996 -0.39531,1.364553 -0.003,0.479557 0.12824,0.959353 0.3759,1.370026 0.24766,0.410673 0.61059,0.750991 1.03632,0.971755 0.0219,0.01134 0.0439,0.02238 0.0661,0.0331" id="path4675-4" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 115.04358,51.478181 c 2.6e-4,1.53265 -0.0218,3.10912 -0.0331,4.66328 -0.0113,1.55417 0.0444,0.0223 0.0661,0.0331" ns1:path-effect="#path-effect4697-38" />
+          <ns0:path d="M 113.23164,53.82795 H 96.821487" id="path4756-8" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+        </ns0:g>
+      </ns0:g>
+                </ns0:g>
+                <ns0:g id="g13215" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path13209" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path13211" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path13213" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+            <ns0:g id="g13307" style="display:inline" transform="matrix(0.41857645,0.7249957,-0.7249957,0.41857645,165.86162,-43.563974)" ns1:label="sentence2">
+                <ns0:g id="g13297" ns1:label="content">
+                    <ns0:g id="g13243" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g6987-0" ns1:label="bottom">
+          <ns0:path d="m 105,51.542929 v 5.165355" id="path6981-90" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 97.763542,60.751958 v 4.090485" id="path6981-9-2" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:circle cx="105" cy="59.357616" id="path7017-2" r="2.6871746" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 99.808785,65.228059 H 95.7183" id="path7041-4" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 97.876458,61.019531 c 1.175693,1.772292 2.851122,3.209172 4.781882,4.101041 1.95297,0.902128 4.19552,1.241705 6.29181,0.758521 2.0963,-0.483184 4.01833,-1.830784 5.01912,-3.735083 0.52604,-1.000955 0.79397,-2.144262 0.71241,-3.272083 -0.0816,-1.127822 -0.52043,-2.235428 -1.27465,-3.077918 -0.9473,-1.058175 -2.38489,-1.65821 -3.80338,-1.587499" id="path7059-2" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns2:nodetypes="csssc" ns1:original-d="m 97.876458,61.019531 c 0.09948,2.028737 6.843682,3.550091 4.781882,4.101041 -2.04669,0.546911 8.98212,-4.638819 11.31093,-2.976562 2.85817,2.040109 -1.79026,-5.249253 -0.56224,-6.350001 1.37778,-1.234987 -1.12422,-1.42187 -3.80338,-1.587499" ns1:path-effect="#path-effect7061-8" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g13269" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g2636-9-4" ns1:label="bottom">
+          <ns0:path d="M 105,51.542929 V 62.429898" id="path2632-7-2" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 110.07368,52.486719 H 99.926321" id="path2644-1-1-2" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="M 110.07368,54.272656 H 99.926321" id="path2644-9-6-2" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:path d="M 110.07368,62.829543 H 99.926319" id="path4208-2" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g13295" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g5556" style="stroke-width:1.00113;stroke-dasharray:none" transform="rotate(-15,116.2518,40.409947)" ns1:label="bottom">
+          <ns0:path d="m 108.35826,49.253254 -0.83756,0.837564" id="path5550" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00113;stroke-dasharray:none" />
+          <ns0:path d="m 107.65371,49.963504 -7.27696,7.46511" id="path5552" style="display:inline;fill:none;stroke:#000000;stroke-width:0.995441;stroke-dasharray:none" />
+          <ns0:path d="m 100.82537,61.471699 c 0.31694,-0.609744 0.42807,-1.324199 0.31133,-2.001404 -0.11674,-0.677205 -0.46069,-1.313209 -0.96349,-1.781638 -0.516823,-0.48149 -1.198549,-0.782605 -1.902541,-0.840343 -0.703992,-0.05774 -1.42567,0.128278 -2.014037,0.519126" id="path5554" style="display:inline;fill:none;stroke:#000000;stroke-width:0.995445;stroke-dasharray:none" ns2:nodetypes="csc" ns1:original-d="m 100.82537,61.471699 c 0.51443,-1.948133 0.96171,-2.256641 -0.65216,-3.783042 -1.447985,-1.369505 -1.902663,-0.769867 -3.916578,-0.321217" ns1:path-effect="#path-effect5572" />
+        </ns0:g>
+        </ns0:g>
+                </ns0:g>
+                <ns0:g id="g13305" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path13299" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path13301" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path13303" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+            <ns0:g id="g13397" style="display:inline" transform="matrix(0.83715292,1.0874093e-8,-1.0874093e-8,0.83715292,-42.846381,-66.282426)" ns1:label="sentence1">
+                <ns0:g id="g13387" ns1:label="content">
+                    <ns0:g id="g13333" style="display:inline" transform="matrix(-0.17580143,0.30449701,-0.30449701,-0.17580143,142.41563,161.58341)" ns1:label="word3">
+                        <ns0:g id="g4667-4" ns1:label="bottom">
+          <ns0:path d="M 105,51.542929 V 63.719742" id="path4663-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 98.556869,63.412659 c 0.727744,-0.992284 1.940391,-1.610435 3.170921,-1.616385 1.23053,-0.0059 2.4491,0.600445 3.18641,1.585645 0.0152,0.02035 0.0303,0.04085 0.0451,0.06149" id="path4673-4-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 98.556869,63.412659 c 2.089431,2.47e-4 4.238591,-0.02023 6.357331,-0.03074 2.11876,-0.0105 0.0304,0.04123 0.0451,0.06149" ns1:path-effect="#path-effect4693-7-6" />
+          <ns0:path d="m 111.48923,63.377255 c -0.72774,-0.992284 -1.94039,-1.610435 -3.17092,-1.616385 -1.23053,-0.0059 -2.4491,0.600445 -3.18641,1.585645 -0.0152,0.02035 -0.0303,0.04085 -0.0451,0.06149" id="path4675-3-5" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 111.48923,63.377255 c -2.08943,2.46e-4 -4.23859,-0.02023 -6.35733,-0.03074 -2.11876,-0.0105 -0.0304,0.04123 -0.0451,0.06149" ns1:path-effect="#path-effect4697-3-6" />
+        </ns0:g>
+        </ns0:g>
+                    <ns0:g id="g13359" style="display:inline" transform="matrix(-0.17580143,-0.30449701,0.30449701,-0.17580143,97.037038,225.58555)" ns1:label="word2">
+                        <ns0:g id="g7326-5" style="stroke-width:1.00013;stroke-dasharray:none" transform="translate(-0.02656231,-12.321439)" ns1:label="top">
+          <ns0:path d="M 105.02656,53.957252 V 64.017398" id="path7316-3" style="display:inline;fill:none;stroke:#000000;stroke-width:1.00013;stroke-dasharray:none" />
+          <ns0:circle cx="105.02657" cy="51.750378" id="circle7318-8" r="2.6871746" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 115.13287,61.655402 V 57.815957" id="path7324-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 114.92094,59.735679 H 95.132188" id="path7364-5" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 95.020838,61.655401 V 57.815956" id="path7783-1" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+        </ns0:g>
+      </ns0:g>
+                    <ns0:g id="g13385" style="display:inline" transform="matrix(0.35160286,0,0,0.35160286,64.284887,154.27164)" ns1:label="word1">
+                        <ns0:g id="g2843-0" style="stroke-width:1.00013;stroke-dasharray:none" transform="translate(-0.02656231,-12.321439)" ns1:label="top">
+          <ns0:path d="M 105.02656,49.922356 V 64.017398" id="path2837-9" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="M 112.713,56.314968 H 97.40627" id="path2839-4" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 108.77732,49.925346 h -7.63381" id="path2839-5-3" style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+          <ns0:path d="m 97.688006,59.793288 c 2.307376,-0.887251 4.777354,-1.349646 7.249424,-1.357137 2.55491,-0.0077 5.11044,0.470772 7.48946,1.402375" id="path2883-9" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 97.688006,59.793288 c 2.416864,-0.452017 4.833334,-0.904395 7.249424,-1.357137 2.41608,-0.45274 4.99335,0.935279 7.48946,1.402375" ns1:path-effect="#path-effect2885-7" />
+          <ns0:path d="m 97.73608,52.885916 c 2.29233,0.881464 4.7462,1.340842 7.20216,1.348283 2.53824,0.0077 5.07711,-0.467702 7.44061,-1.393226" id="path2887-2" style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none" ns1:original-d="m 97.73608,52.885916 c 2.40111,0.449067 4.80183,0.898494 7.20216,1.348283 2.40032,0.449787 4.96078,-0.929177 7.44061,-1.393226" ns1:path-effect="#path-effect2891-3" />
+        </ns0:g>
+      </ns0:g>
+                </ns0:g>
+                <ns0:g id="g13395" style="stroke-width:0.836167;stroke-dasharray:none" ns1:label="structure">
+                    <ns0:path d="m 93.571004,176.01949 7.772416,4.48741" id="path13389" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" ns1:label="path961-4-8" />
+                    <ns0:path d="m 101.25641,189.3992 v -8.97482" id="path13391" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                    <ns0:path d="m 108.88594,175.96362 -7.77242,4.48741" id="path13393" style="fill:none;stroke:#000000;stroke-width:0.836167;stroke-dasharray:none" />
+                </ns0:g>
+            </ns0:g>
+        </ns0:g>
+    </ns0:g>
+</ns0:svg>
